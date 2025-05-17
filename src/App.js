@@ -15,7 +15,7 @@ export default function App() {
   };
 
   return (
-    <GoogleOAuthProvider clientId="889888777826-bbgb1r4he0moc3u190qtfvoaaep0itf.apps.googleusercontent.com">
+    <GoogleOAuthProvider clientId="889888777826-bgbg1r4he0moc3u190qtfvoaaeop0itf.apps.googleusercontent.com">
       <div style={{ padding: "2rem", fontFamily: "Arial" }}>
         <h1>Assistant numérique personnel</h1>
 
